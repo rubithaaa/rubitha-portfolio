@@ -30,9 +30,7 @@ function App() {
 
           <h1>Rubitha R</h1>
 
-          <h2>
-            Computer Science Engineering Student
-          </h2>
+          <h2>Computer Science Engineering Student | Full Stack Developer | AI Enthusiast</h2>
 
           <p className="intro">
             I build modern web applications and AI-powered
@@ -67,39 +65,45 @@ function App() {
 
       {/* About */}
       <section id="about">
-        <h2>About Me</h2>
+  <h2>About Me</h2>
 
-        <p>
-          I am a Computer Science Engineering student passionate
-          about software development, artificial intelligence,
-          and building practical technology solutions.
-        </p>
+  <p>
+    I am a Computer Science Engineering student with a strong
+    interest in software development, artificial intelligence,
+    and full-stack web technologies.
+  </p>
 
-        <p>
-          I enjoy turning ideas into functional applications
-          using modern technologies and continuously improving
-          my technical skills through projects, internships,
-          and hackathons.
-        </p>
-      </section>
+  <p>
+    I enjoy building practical applications that solve real-world
+    problems and continuously strengthen my skills through projects,
+    internships, and hackathons.
+  </p>
+
+  <p>
+    My goal is to grow as a software engineer while contributing
+    to innovative and impactful technology solutions.
+  </p>
+</section>
 
       {/* Skills */}
       <section id="skills">
-        <h2>Technical Skills</h2>
+  <h2>Technical Skills</h2>
 
-        <div className="skills-container">
-          <span>Java</span>
-          <span>Python</span>
-          <span>JavaScript</span>
-          <span>React</span>
-          <span>Node.js</span>
-          <span>Express.js</span>
-          <span>MongoDB</span>
-          <span>Git</span>
-          <span>GitHub</span>
-          <span>REST API</span>
-        </div>
-      </section>
+  <div className="skills-container">
+    <span>Java</span>
+    <span>Python</span>
+    <span>JavaScript</span>
+    <span>React.js</span>
+    <span>Node.js</span>
+    <span>Express.js</span>
+    <span>MongoDB</span>
+    <span>REST APIs</span>
+    <span>Git</span>
+    <span>GitHub</span>
+    <span>SQL</span>
+    <span>Machine Learning</span>
+  </div>
+</section>
 
       {/* Projects */}
       <section id="projects">
